@@ -1,6 +1,6 @@
 {
   "name": "@cosium/tiff",
-  "version": "5.0.1",
+  "version": "5.0.1-cosium.1",
   "publishConfig": {
     "registry": "https://nexus.cosium.dev/repository/npm-releases/"
   },
